@@ -1,0 +1,7 @@
+name: MyPlugin
+version: 1.0.0
+main: fr.jishuashi.plugins.MyPlugin
+description: An example plugin
+author: PaperMC
+website: https://papermc.io
+api-version: '1.21.4'
