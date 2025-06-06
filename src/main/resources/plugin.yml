@@ -1,7 +1,8 @@
-name: MyPlugin
+name: ChatDiscord
 version: 1.0.0
-main: fr.jishuashi.plugins.MyPlugin
+main: fr.jishuashi.plugins.ChatDiscord
 description: An example plugin
 author: PaperMC
 website: https://papermc.io
 api-version: '1.21.4'
+depend: [LuckPerms]
