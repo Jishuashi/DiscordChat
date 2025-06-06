@@ -28,10 +28,10 @@ target-url: "chat.jishuashi.fr" # URL HTTP du bot (reçoit les messages Minecraf
 server-id et channel-id sont utilisés dans les payloads envoyés.
 target-url correspond à l’adresse du serveur HTTP lancé par le bot Discord.
 
-#🧩 Intégration LuckPerms
+##🧩 Intégration LuckPerms
 Si le plugin LuckPerms est présent, ChatDiscord utilisera automatiquement les préfixes définis par groupe lors de l’envoi du chat vers Discord.
 
-#🧪 Dépendances
+## 🧪 Dépendances
   PaperMC (API 1.19+)
   LuckPerms (optionnel)
   Gson
